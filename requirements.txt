@@ -1,0 +1,23 @@
+# FastAPI
+FastAPI
+pydantic
+pydantic-settings
+
+# Deployment
+uvicorn
+gunicorn
+
+# Database
+SQLAlchemy
+alembic
+psycopg
+
+# Testing
+pytest
+pytest-xdist
+httpx
+faker
+
+# Others
+python-dotenv
+tqdm
